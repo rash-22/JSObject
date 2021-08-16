@@ -1,0 +1,50 @@
+body{
+	margin: 0;
+	padding: 0;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(https://wallpaperaccess.com/full/729354.jpg);
+	background-repeat: no-repeat;
+	background-size: cover ;
+	font-family: 'Georama', sans-serif;
+	color: black;
+	margin-top: 100px;
+	width: 100vw;
+  	height: 100vh;
+}
+h1{
+	text-align: center;
+}
+
+.button_cont {
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.example_e {
+	border: none;
+	background: #404040;
+	color: #ffffff ;
+	font-weight: 100;
+	padding: 18px;
+	text-transform: uppercase;
+	border-radius: 8px;
+	display: inline-block;
+	transition: all 0.3s ease 0s;
+	text-align: center;
+	margin-left: 20px;
+	font-family: 'Georama', sans-serif;
+	font-size: 20px;
+	margin-top: 50px;
+	word-wrap: break-word;
+}
+
+.example_e:hover {
+	color: #404040 ;
+	font-weight: 700 ;
+	letter-spacing: 3px;
+	background: none;
+	-webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+	-moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+	transition: all 0.3s ease 0s;
+}
